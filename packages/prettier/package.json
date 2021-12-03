@@ -1,0 +1,17 @@
+{
+	"name": "@boss/prettier",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "jingjing20 <1269928993@qq.com> (https://github.com/jingjing20)",
+	"publishConfig": {
+        "access": "public"
+    },
+	"license": "ISC",
+	"dependencies": {
+		"prettier": "^2.5.0"
+	}
+}
