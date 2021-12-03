@@ -1,16 +1,16 @@
 {
 	"name": "@boss/eslint-react",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [],
-  	"author": "jingjing20 <1269928993@qq.com> (https://github.com/jingjing20)",
+	"author": "jingjing20 <1269928993@qq.com> (https://github.com/jingjing20)",
 	"publishConfig": {
-      	"access": "public"
-  	},
+		"access": "public"
+	},
 	"license": "ISC",
 	"dependencies": {
 		"@typescript-eslint/eslint-plugin": "^5.5.0",
