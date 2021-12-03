@@ -1,18 +1,28 @@
 {
-	"name": "@boss/eslint-config-react",
-	"version": "1.0.1",
+	"name": "@boss/eslint-prettier",
+	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"keywords": [],
+	"keywords": [
+		"eslint",
+		"prettier"
+	],
 	"author": "jingjing20 <1269928993@qq.com> (https://github.com/jingjing20)",
+	"private": false,
 	"publishConfig": {
 		"access": "public"
 	},
+	"scripts": {
+		"publish": "lerna publish --conventional-commits --yes",
+		"bootstrap": "lerna bootstrap",
+		"convert": "lerna link convert",
+		"npm:publish": "npm run publish --access=public"
+	},
 	"license": "ISC",
-	"dependencies": {
+	"workspaces": [
+		"packages/*"
+	],
+	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "^5.5.0",
 		"@typescript-eslint/parser": "^5.5.0",
 		"eslint": "^8.3.0",
@@ -24,7 +34,13 @@
 		"eslint-plugin-prettier": "^4.0.0",
 		"eslint-plugin-react": "^7.27.1",
 		"eslint-plugin-react-hooks": "^4.3.0",
+		"eslint-plugin-vue": "^8.1.1",
+		"lerna": "^4.0.0",
 		"prettier": "^2.5.0"
 	},
-	"gitHead": "19416cb2d603210f54db0c6db79658db22ff215c"
+	"dependencies": {
+		"eslint-react": "file:packages/eslint-react",
+		"eslint-vue": "file:packages/eslint-vue",
+		"prettier": "file:packages/prettier"
+	}
 }

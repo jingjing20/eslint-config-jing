@@ -1,5 +1,5 @@
 {
-	"name": "@boss/eslint-vue",
+	"name": "@boss/eslint-config-vue",
 	"version": "1.0.1",
 	"main": "index.js",
 	"scripts": {
@@ -19,5 +19,6 @@
 		"eslint-plugin-prettier": "^4.0.0",
 		"eslint-plugin-vue": "^8.1.1",
 		"prettier": "^2.5.0"
-	}
+	},
+	"gitHead": "19416cb2d603210f54db0c6db79658db22ff215c"
 }
