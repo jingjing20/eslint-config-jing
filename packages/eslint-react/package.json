@@ -23,8 +23,7 @@
 		"eslint-plugin-jsx-a11y": "^6.5.1",
 		"eslint-plugin-prettier": "^4.0.0",
 		"eslint-plugin-react": "^7.27.1",
-		"eslint-plugin-react-hooks": "^4.3.0",
-		"prettier": "^2.5.0"
+		"eslint-plugin-react-hooks": "^4.3.0"
 	},
-	"gitHead": "08d0efcd7324ca0787f2a0d239c3932a1b722b9f"
+	"gitHead": "aa031f50f18ea4e3362231ab1022332f59a61eba"
 }
