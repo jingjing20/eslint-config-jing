@@ -1,5 +1,5 @@
 {
-	"name": "@boss/eslint-config-react",
+	"name": "@boss/eslint-react",
 	"version": "1.0.6",
 	"description": "react 项目 eslint 默认配置",
 	"main": "index.js",
@@ -28,5 +28,5 @@
 		"eslint-plugin-react": "^7.27.1",
 		"eslint-plugin-react-hooks": "^4.3.0"
 	},
-	"gitHead": "89f1155770a620a9096c8c7e62980987dac80ba0"
+	"gitHead": "debe9827b51e145e829d7fc59d57af9b085c91bf"
 }
