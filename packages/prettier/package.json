@@ -1,5 +1,5 @@
 {
-	"name": "@jingjing/prettier-config",
+	"name": "@jingjing20/prettier-config",
 	"version": "1.0.10",
 	"description": "prettier 默认配置",
 	"main": "index.js",
@@ -17,5 +17,5 @@
 	"dependencies": {
 		"prettier": "^2.5.0"
 	},
-	"gitHead": "5bcc77bedf55f3f71d079a9fed21d59da1755241"
+	"gitHead": "f7c3b07cd599fd236afbd705c2f172251d579e74"
 }
