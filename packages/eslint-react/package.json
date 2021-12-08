@@ -1,17 +1,17 @@
 {
 	"name": "@boss/eslint-config-react",
 	"version": "1.0.4",
-	"description": "",
+	"description": "react 项目 eslint 默认配置",
 	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"keywords": [],
 	"author": "jingjing20 <1269928993@qq.com> (https://github.com/jingjing20)",
+	"license": "MIT",
+	"keywords": ["eslint", "react"],
+	"files": [
+		"index.js"
+	],
 	"publishConfig": {
 		"access": "public"
 	},
-	"license": "ISC",
 	"dependencies": {
 		"@typescript-eslint/eslint-plugin": "^5.5.0",
 		"@typescript-eslint/parser": "^5.5.0",
@@ -25,5 +25,5 @@
 		"eslint-plugin-react": "^7.27.1",
 		"eslint-plugin-react-hooks": "^4.3.0"
 	},
-	"gitHead": "aa031f50f18ea4e3362231ab1022332f59a61eba"
+	"gitHead": "6faca320b116cd7602bf2ab26077a57d7c6d75d7"
 }
