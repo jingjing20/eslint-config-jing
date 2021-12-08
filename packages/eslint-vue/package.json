@@ -1,11 +1,14 @@
 {
 	"name": "@boss/eslint-config-vue",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "vue 项目 eslint 默认配置",
 	"main": "index.js",
 	"author": "jingjing20 <1269928993@qq.com> (https://github.com/jingjing20)",
 	"license": "MIT",
-	"keywords": ["eslint", "vue"],
+	"keywords": [
+		"eslint",
+		"vue"
+	],
 	"files": [
 		"index.js"
 	],

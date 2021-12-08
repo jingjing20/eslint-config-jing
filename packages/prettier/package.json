@@ -1,11 +1,13 @@
 {
 	"name": "@boss/prettier-config",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "prettier 默认配置",
 	"main": "index.js",
 	"author": "jingjing20 <1269928993@qq.com> (https://github.com/jingjing20)",
 	"license": "MIT",
-	"keywords": ["prettier"],
+	"keywords": [
+		"prettier"
+	],
 	"files": [
 		"index.js"
 	],
