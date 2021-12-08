@@ -1,5 +1,5 @@
 {
-	"name": "@boss/eslint-vue",
+	"name": "@jingjing/eslint-vue",
 	"version": "1.0.7",
 	"description": "vue 项目 eslint 默认配置",
 	"main": "index.js",
@@ -23,5 +23,5 @@
 		"eslint-plugin-prettier": "^4.0.0",
 		"eslint-plugin-vue": "^8.1.1"
 	},
-	"gitHead": "debe9827b51e145e829d7fc59d57af9b085c91bf"
+	"gitHead": "f1bdeb59b3f430068bbc19dccfadf7e628f553fc"
 }
