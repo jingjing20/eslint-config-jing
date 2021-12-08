@@ -16,7 +16,7 @@
 		"publish": "lerna publish --conventional-commits --yes",
 		"bootstrap": "lerna bootstrap",
 		"convert": "lerna link convert",
-		"npm:publish": "npm run publish --access=public"
+		"npm:publish": "npm run publish --access public"
 	},
 	"license": "MIT",
 	"workspaces": [
