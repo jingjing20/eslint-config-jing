@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/jingjing20/eslint-config-jing/compare/v1.0.11...v1.1.0) (2021-12-09)
+
+
+### Features
+
+* 发布到公司私有库 ([4cbc677](https://github.com/jingjing20/eslint-config-jing/commit/4cbc677805efc0f5c5b19313a9ffbd8f8306ac94))
+
+
+
+
+
 ## [1.0.11](https://github.com/jingjing20/eslint-config-jing/compare/v1.0.10...v1.0.11) (2021-12-08)
 
 **Note:** Version bump only for package @jingjing20/eslint-react
