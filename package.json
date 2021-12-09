@@ -1,7 +1,7 @@
 {
-	"name": "@jingjing20/eslint-prettier",
+	"name": "@boss/eslint-prettier",
 	"version": "1.0.0",
-	"description": "",
+	"description": "统一公司团队代码风格集成工具",
 	"main": "index.js",
 	"keywords": [
 		"eslint",

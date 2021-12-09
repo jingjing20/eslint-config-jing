@@ -1,5 +1,5 @@
 {
-	"name": "@jingjing20/prettier-config",
+	"name": "@boss/prettier-config",
 	"version": "1.0.11",
 	"description": "prettier 默认配置",
 	"main": "index.js",
