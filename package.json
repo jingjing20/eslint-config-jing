@@ -1,5 +1,5 @@
 {
-	"name": "@boss/eslint-prettier",
+	"name": "@jingjing20/eslint-prettier",
 	"version": "1.0.0",
 	"description": "统一公司团队代码风格集成工具",
 	"main": "index.js",
@@ -39,9 +39,9 @@
 		"prettier": "^2.5.0"
 	},
 	"dependencies": {
-		"@boss/eslint-react": "file:packages/eslint-react",
-		"@boss/eslint-vue": "file:packages/eslint-vue",
-		"@boss/prettier-config": "file:packages/prettier",
-		"@boss/stylelint": "file:packages/stylelint"
+		"@jingjing20/eslint-react": "file:packages/eslint-react",
+		"@jingjing20/eslint-vue": "file:packages/eslint-vue",
+		"@jingjing20/prettier-config": "file:packages/prettier",
+		"@jingjing20/stylelint": "file:packages/stylelint"
 	}
 }

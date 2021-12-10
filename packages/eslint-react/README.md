@@ -1,17 +1,17 @@
-# @boss/eslint-react
+# @jingjing20/eslint-react
 
 ## Usage
 
 ### install package
 
 ```
-npm i @boss/eslint-react -D # yarn add @boss/eslint-react -D
+npm i @jingjing20/eslint-react -D # yarn add @jingjing20/eslint-react -D
 ```
 
 ### use in config js
 
 ```javascript
 module.exports = {
-    extends: '@boss/eslint-react',
+    extends: '@jingjing20/eslint-react',
 };
 ```

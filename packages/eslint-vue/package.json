@@ -1,5 +1,5 @@
 {
-	"name": "@boss/eslint-vue",
+	"name": "@jingjing20/eslint-vue",
 	"version": "1.2.0",
 	"description": "vue 项目 eslint 默认配置",
 	"main": "index.js",

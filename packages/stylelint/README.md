@@ -1,17 +1,17 @@
-# @boss/stylelint
+# @jingjing20/stylelint
 
 ## Usage
 
 ### install package
 
 ```
-npm i @boss/stylelint -D # yarn add @boss/stylelint -D
+npm i @jingjing20/stylelint -D # yarn add @jingjing20/stylelint -D
 ```
 
 ### use in config js
 
 ```javascript
 module.exports = {
-    extends: '@boss/stylelint',
+    extends: '@jingjing20/stylelint',
 };
 ```

@@ -6,20 +6,20 @@
 -->
 
 
-# @boss/eslint-prettier
+# @jingjing20/eslint-prettier
 
 ## Usage
 
 ### install package
 
 ```
-npm i @boss/eslint-prettier -D # yarn add @boss/eslint-prettier -D
+npm i @jingjing20/eslint-prettier -D # yarn add @jingjing20/eslint-prettier -D
 ```
 
 ### use in config js
 
 ```javascript
 module.exports = {
-    extends: '@boss/eslint-prettier',
+    extends: '@jingjing20/eslint-prettier',
 };
 ```

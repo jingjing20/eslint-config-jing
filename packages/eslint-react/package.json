@@ -1,5 +1,5 @@
 {
-	"name": "@boss/eslint-react",
+	"name": "@jingjing20/eslint-react",
 	"version": "1.2.0",
 	"description": "react 项目 eslint 默认配置",
 	"main": "index.js",

@@ -1,17 +1,17 @@
-# @boss/prettier-config
+# @jingjing20/prettier-config
 
 ## Usage
 
 ### install package
 
 ```
-npm i @boss/prettier-config -D # yarn add @boss/prettier-config -D
+npm i @jingjing20/prettier-config -D # yarn add @jingjing20/prettier-config -D
 ```
 
 ### use in config js
 
 ```javascript
 module.exports = {
-    extends: '@boss/prettier-config',
+    extends: '@jingjing20/prettier-config',
 };
 ```
