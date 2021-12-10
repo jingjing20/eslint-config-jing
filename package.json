@@ -39,9 +39,9 @@
 		"prettier": "^2.5.0"
 	},
 	"dependencies": {
-		"@jingjing20/eslint-react": "file:packages/eslint-react",
-		"@jingjing20/eslint-vue": "file:packages/eslint-vue",
-		"@jingjing20/prettier-config": "file:packages/prettier",
-		"@jingjing20/stylelint": "file:packages/stylelint"
+		"@jingjing20/eslint-react": "^1.3.0",
+		"@jingjing20/eslint-vue": "^1.3.0",
+		"@jingjing20/prettier-config": "^1.3.0",
+		"@jingjing20/stylelint": "^1.3.0"
 	}
 }
